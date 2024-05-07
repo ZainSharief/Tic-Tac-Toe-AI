@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-AI
-A Tic-Tac-Toe AI made implementing the Minimax algorithm
+A Tic-Tac-Toe AI made using the Minimax algorithm
